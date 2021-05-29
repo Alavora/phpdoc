@@ -281,6 +281,16 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/App-Http-Controllers-Auth-ForgotPasswordController.html"
         },                {
+            "fqsen": "\\App\\Http\\Controllers\\Auth\\ForgotPasswordController\u003A\u003A__construct\u0028\u0029",
+            "name": "__construct",
+            "summary": "Create\u0020a\u0020new\u0020controller\u0020instance.",
+            "url": "classes/App-Http-Controllers-Auth-ForgotPasswordController.html#method___construct"
+        },                {
+            "fqsen": "\\App\\Http\\Controllers\\Auth\\ForgotPasswordController\u003A\u003A__invoke\u0028\u0029",
+            "name": "__invoke",
+            "summary": "",
+            "url": "classes/App-Http-Controllers-Auth-ForgotPasswordController.html#method___invoke"
+        },                {
             "fqsen": "\\App\\Http\\Controllers\\Auth\\LoginController",
             "name": "LoginController",
             "summary": "",
@@ -693,17 +703,17 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Models\\Basket\u003A\u003Aitems\u0028\u0029",
             "name": "items",
-            "summary": "",
+            "summary": "Links\u0020the\u0020basket\u0020to\u0020it\u0027s\u0020items",
             "url": "classes/App-Models-Basket.html#method_items"
         },                {
             "fqsen": "\\App\\Models\\Basket\u003A\u003Ashop\u0028\u0029",
             "name": "shop",
-            "summary": "",
+            "summary": "Links\u0020the\u0020basket\u0020to\u0020it\u0027s\u0020shop.",
             "url": "classes/App-Models-Basket.html#method_shop"
         },                {
             "fqsen": "\\App\\Models\\Basket\u003A\u003Auser\u0028\u0029",
             "name": "user",
-            "summary": "",
+            "summary": "Links\u0020the\u0020basket\u0020to\u0020it\u0027s\u0020user\u0020\u0028buyer\u0029",
             "url": "classes/App-Models-Basket.html#method_user"
         },                {
             "fqsen": "\\App\\Models\\Basket\u003A\u003ASTATUS_UNCONFIRMED",
@@ -738,12 +748,12 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Models\\Item\u003A\u003Abasket\u0028\u0029",
             "name": "basket",
-            "summary": "",
+            "summary": "Links\u0020the\u0020item\u0020to\u0020it\u0027s\u0020basket",
             "url": "classes/App-Models-Item.html#method_basket"
         },                {
             "fqsen": "\\App\\Models\\Item\u003A\u003Aproduct\u0028\u0029",
             "name": "product",
-            "summary": "",
+            "summary": "Links\u0020the\u0020item\u0020to\u0020it\u0027s\u0020product",
             "url": "classes/App-Models-Item.html#method_product"
         },                {
             "fqsen": "\\App\\Models\\Item\u003A\u003ASTATUS_UNCONFIRMED",
@@ -778,7 +788,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Models\\Market\u003A\u003Ashops\u0028\u0029",
             "name": "shops",
-            "summary": "",
+            "summary": "Links\u0020the\u0020market\u0020to\u0020it\u0027s\u0020shops",
             "url": "classes/App-Models-Market.html#method_shops"
         },                {
             "fqsen": "\\App\\Models\\Market\u003A\u003A\u0024fillable",
@@ -793,17 +803,17 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Models\\Product\u003A\u003Aitems\u0028\u0029",
             "name": "items",
-            "summary": "",
+            "summary": "Links\u0020the\u0020product\u0020to\u0020it\u0027s\u0020items",
             "url": "classes/App-Models-Product.html#method_items"
         },                {
             "fqsen": "\\App\\Models\\Product\u003A\u003Ashop\u0028\u0029",
             "name": "shop",
-            "summary": "",
+            "summary": "Links\u0020the\u0020product\u0020to\u0020it\u0027s\u0020shop",
             "url": "classes/App-Models-Product.html#method_shop"
         },                {
             "fqsen": "\\App\\Models\\Product\u003A\u003Aunits\u0028\u0029",
             "name": "units",
-            "summary": "",
+            "summary": "Links\u0020the\u0020product\u0020to\u0020it\u0027s\u0020units,\u0020each\u0020of\u0020them\u0020with\u0020an\u0020associated\u0020price",
             "url": "classes/App-Models-Product.html#method_units"
         },                {
             "fqsen": "\\App\\Models\\Product\u003A\u003A\u0024fillable",
@@ -818,22 +828,22 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Models\\Shop\u003A\u003Amarket\u0028\u0029",
             "name": "market",
-            "summary": "",
+            "summary": "Links\u0020the\u0020shop\u0020to\u0020it\u0027s\u0020market",
             "url": "classes/App-Models-Shop.html#method_market"
         },                {
             "fqsen": "\\App\\Models\\Shop\u003A\u003Abaskets\u0028\u0029",
             "name": "baskets",
-            "summary": "",
+            "summary": "Links\u0020the\u0020shop\u0020to\u0020it\u0027s\u0020baskets",
             "url": "classes/App-Models-Shop.html#method_baskets"
         },                {
             "fqsen": "\\App\\Models\\Shop\u003A\u003Aproducts\u0028\u0029",
             "name": "products",
-            "summary": "",
+            "summary": "Links\u0020the\u0020shop\u0020to\u0020it\u0027s\u0020products",
             "url": "classes/App-Models-Shop.html#method_products"
         },                {
             "fqsen": "\\App\\Models\\Shop\u003A\u003Asellers\u0028\u0029",
             "name": "sellers",
-            "summary": "",
+            "summary": "Links\u0020the\u0020shop\u0020to\u0020it\u0027s\u0020sellers",
             "url": "classes/App-Models-Shop.html#method_sellers"
         },                {
             "fqsen": "\\App\\Models\\Shop\u003A\u003A\u0024fillable",
@@ -848,7 +858,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Models\\Unit\u003A\u003Aproducts\u0028\u0029",
             "name": "products",
-            "summary": "",
+            "summary": "Links\u0020the\u0020unit\u0020to\u0020it\u0027s\u0020products",
             "url": "classes/App-Models-Unit.html#method_products"
         },                {
             "fqsen": "\\App\\Models\\User",
@@ -858,17 +868,17 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Models\\User\u003A\u003Abaskets\u0028\u0029",
             "name": "baskets",
-            "summary": "",
+            "summary": "Links\u0020the\u0020user\u0020to\u0020its\u0020baskets",
             "url": "classes/App-Models-User.html#method_baskets"
         },                {
             "fqsen": "\\App\\Models\\User\u003A\u003AownedShops\u0028\u0029",
             "name": "ownedShops",
-            "summary": "",
+            "summary": "Links\u0020the\u0020seller\u0020to\u0020it\u0027s\u0020owned\u0020shops",
             "url": "classes/App-Models-User.html#method_ownedShops"
         },                {
             "fqsen": "\\App\\Models\\User\u003A\u003AdistributedBaskets\u0028\u0029",
             "name": "distributedBaskets",
-            "summary": "",
+            "summary": "Links\u0020the\u0020distributor\u0020to\u0020it\u0027s\u0020distributed\u0020baskets",
             "url": "classes/App-Models-User.html#method_distributedBaskets"
         },                {
             "fqsen": "\\App\\Models\\User\u003A\u003A\u0024fillable",
