@@ -88,32 +88,32 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\MarketController",
             "name": "MarketController",
-            "summary": "",
+            "summary": "It\u0020allows\u0020to\u0020create,\u0020list\u0020and\u0020show\u0020markets",
             "url": "classes/App-Http-Controllers-Api-MarketController.html"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\MarketController\u003A\u003Aindex\u0028\u0029",
             "name": "index",
-            "summary": "",
+            "summary": "Returns\u0020a\u0020list\u0020of\u0020Markets",
             "url": "classes/App-Http-Controllers-Api-MarketController.html#method_index"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\MarketController\u003A\u003Ashow\u0028\u0029",
             "name": "show",
-            "summary": "",
+            "summary": "Returns\u0020a\u0020Market\u0020with\u0020all\u0020data\u0020necessary\u0020to\u0020show\u0020it",
             "url": "classes/App-Http-Controllers-Api-MarketController.html#method_show"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\MarketController\u003A\u003Astore\u0028\u0029",
             "name": "store",
-            "summary": "",
+            "summary": "Stores\u0020a\u0020Market\u0020and\u0020returns\u0020it",
             "url": "classes/App-Http-Controllers-Api-MarketController.html#method_store"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ProductController",
             "name": "ProductController",
-            "summary": "",
+            "summary": "Allow\u0020to\u0020create,\u0020list,\u0020update\u0020and\u0020destroy\u0020Products",
             "url": "classes/App-Http-Controllers-Api-ProductController.html"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ProductController\u003A\u003Aindex\u0028\u0029",
             "name": "index",
-            "summary": "",
+            "summary": "List\u0020all\u0020products\u0020for\u0020a\u0020shop",
             "url": "classes/App-Http-Controllers-Api-ProductController.html#method_index"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ProductController\u003A\u003Astore\u0028\u0029",
@@ -123,12 +123,12 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ProductController\u003A\u003Aupdate\u0028\u0029",
             "name": "update",
-            "summary": "",
+            "summary": "Updates\u0020a\u0020product",
             "url": "classes/App-Http-Controllers-Api-ProductController.html#method_update"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ProductController\u003A\u003Adestroy\u0028\u0029",
             "name": "destroy",
-            "summary": "",
+            "summary": "Deletes\u0020a\u0020product",
             "url": "classes/App-Http-Controllers-Api-ProductController.html#method_destroy"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ProductController\u003A\u003AmapUnits\u0028\u0029",
@@ -178,42 +178,42 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ShopController",
             "name": "ShopController",
-            "summary": "",
+            "summary": "Controler\u0020for\u0020Shop\u0020model",
             "url": "classes/App-Http-Controllers-Api-ShopController.html"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ShopController\u003A\u003Aindex\u0028\u0029",
             "name": "index",
-            "summary": "",
+            "summary": "Returns\u0020all\u0020shops,\u0020or\u0020filtered\u0020by\u0020market_id\u0020if\u0020present",
             "url": "classes/App-Http-Controllers-Api-ShopController.html#method_index"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ShopController\u003A\u003AindexSeller\u0028\u0029",
             "name": "indexSeller",
-            "summary": "",
+            "summary": "Returns\u0020shops\u0020whose\u0020current\u0020user\u0020is\u0020the\u0020owner",
             "url": "classes/App-Http-Controllers-Api-ShopController.html#method_indexSeller"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ShopController\u003A\u003Astore\u0028\u0029",
             "name": "store",
-            "summary": "",
+            "summary": "Creates\u0020a\u0020new\u0020Shop",
             "url": "classes/App-Http-Controllers-Api-ShopController.html#method_store"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ShopController\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
-            "summary": "",
+            "summary": "Deletes\u0020a\u0020Shop",
             "url": "classes/App-Http-Controllers-Api-ShopController.html#method_delete"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\ShopController\u003A\u003Ashow\u0028\u0029",
             "name": "show",
-            "summary": "",
+            "summary": "Returns\u0020a\u0020Shop\u0020by\u0020id",
             "url": "classes/App-Http-Controllers-Api-ShopController.html#method_show"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\UnitController",
             "name": "UnitController",
-            "summary": "",
+            "summary": "Controller\u0020for\u0020Unit\u0020model",
             "url": "classes/App-Http-Controllers-Api-UnitController.html"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\UnitController\u003A\u003Aindex\u0028\u0029",
             "name": "index",
-            "summary": "",
+            "summary": "List\u0020all\u0020Units",
             "url": "classes/App-Http-Controllers-Api-UnitController.html#method_index"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\UnitController\u003A\u003AgetBySymbol\u0028\u0029",
@@ -223,17 +223,17 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\UnitController\u003A\u003Astore\u0028\u0029",
             "name": "store",
-            "summary": "",
+            "summary": "Stores\u0020a\u0020Unit",
             "url": "classes/App-Http-Controllers-Api-UnitController.html#method_store"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\UnitController\u003A\u003Adelete\u0028\u0029",
             "name": "delete",
-            "summary": "",
+            "summary": "Deletes\u0020a\u0020Unit",
             "url": "classes/App-Http-Controllers-Api-UnitController.html#method_delete"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\UserController",
             "name": "UserController",
-            "summary": "",
+            "summary": "User\u0020controller\u0020for\u0020API\u0020calls",
             "url": "classes/App-Http-Controllers-Api-UserController.html"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\UserController\u003A\u003Aindex\u0028\u0029",
@@ -383,7 +383,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Http\\Controllers\\AuthController",
             "name": "AuthController",
-            "summary": "",
+            "summary": "Controller\u0020for\u0020Auth\u0020calls",
             "url": "classes/App-Http-Controllers-AuthController.html"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\AuthController\u003A\u003Aregister\u0028\u0029",
