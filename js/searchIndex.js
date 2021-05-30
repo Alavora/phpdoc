@@ -13,8 +13,18 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\BasketController\u003A\u003AindexSeller\u0028\u0029",
             "name": "indexSeller",
-            "summary": "",
+            "summary": "Returns\u0020a\u0020list\u0020of\u0020baskets\u0020for\u0020the\u0020current\u0020seller",
             "url": "classes/App-Http-Controllers-Api-BasketController.html#method_indexSeller"
+        },                {
+            "fqsen": "\\App\\Http\\Controllers\\Api\\BasketController\u003A\u003AgetBasketSeller\u0028\u0029",
+            "name": "getBasketSeller",
+            "summary": "Returns\u0020a\u0020basket\u0020\u0028if\u0020seller\u0020has\u0020access\u0020to\u0020it\u0029",
+            "url": "classes/App-Http-Controllers-Api-BasketController.html#method_getBasketSeller"
+        },                {
+            "fqsen": "\\App\\Http\\Controllers\\Api\\BasketController\u003A\u003AupdateBasketSeller\u0028\u0029",
+            "name": "updateBasketSeller",
+            "summary": "Allow\u0020the\u0020seller\u0020to\u0020update\u0020basket\u0020status",
+            "url": "classes/App-Http-Controllers-Api-BasketController.html#method_updateBasketSeller"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\BasketController\u003A\u003Astore\u0028\u0029",
             "name": "store",
@@ -73,7 +83,7 @@ Search.appendIndex(
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\BasketController\u003A\u003AitemsSeller\u0028\u0029",
             "name": "itemsSeller",
-            "summary": "",
+            "summary": "Returns\u0020items\u0020of\u0020a\u0020basket,\u0020if\u0020current\u0020user\u0020is\u0020a\u0020seller\u0020and\u0020has\u0020access\u0020to\u0020them",
             "url": "classes/App-Http-Controllers-Api-BasketController.html#method_itemsSeller"
         },                {
             "fqsen": "\\App\\Http\\Controllers\\Api\\MarketController",
@@ -1270,6 +1280,16 @@ Search.appendIndex(
             "name": "run",
             "summary": "Run\u0020the\u0020database\u0020seeds.",
             "url": "classes/Database-Seeders-UsersTableSeeder.html#method_run"
+        },                {
+            "fqsen": "\\Database\\Seeders\\ItemsTableSeeder",
+            "name": "ItemsTableSeeder",
+            "summary": "",
+            "url": "classes/Database-Seeders-ItemsTableSeeder.html"
+        },                {
+            "fqsen": "\\Database\\Seeders\\ItemsTableSeeder\u003A\u003Arun\u0028\u0029",
+            "name": "run",
+            "summary": "Run\u0020the\u0020database\u0020seeds\u0020for\u0020Baskets\/Items",
+            "url": "classes/Database-Seeders-ItemsTableSeeder.html#method_run"
         },                {
             "fqsen": "\\",
             "name": "\\",
